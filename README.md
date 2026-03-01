@@ -45,7 +45,7 @@ automated calculations, making it easy to interpret large datasets.
 
 (Add screenshots after uploading images to your repository)
 
-Example: ![Dashboard Preview](images/dashboard_preview.png)
+Example: ![Dashboard Preview](https://github.com/Jenish2811/Excel-Exam/blob/ba88942ab8ba35ec4876b1c2d1d2bf79e70bd540/dashboard.png)
 
 ------------------------------------------------------------------------
 
